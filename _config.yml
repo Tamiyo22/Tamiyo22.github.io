@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: melissaeaybar@gmail.com
 copyright_name: Tamiyo22
 description: > # this means to ignore newlines until "baseurl:"
-  Coding is always on my mind
+  for (var code=0; code<Infinity; code++) {}
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Tamiyo22
